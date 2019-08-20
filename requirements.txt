@@ -1,0 +1,5 @@
+asyncio
+Pymoe
+discord
+pip3
+pip

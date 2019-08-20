@@ -1,4 +1,3 @@
 asyncio
 discord
 pip
-setuptools==0.7.3
